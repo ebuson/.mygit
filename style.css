@@ -1,0 +1,47 @@
+body
+{
+	margin:0;
+	padding: 50;
+	background: url('bg.jpg');
+}
+#main
+{
+	width: 600px;
+	margin: 0 auto;
+		height: 230px;;
+}
+h1
+{
+	text-align: center;
+	font-size: 75px;
+	color: orange;
+}
+#logo
+{
+	float: left;
+	margin-left: 15px;
+	
+}
+#logo img
+{
+	width: 150px;
+	margin-bottom: 20px;
+}
+#myfix
+{
+	box-shadow: 3px -69px 67px white;
+	height: 27px;
+	width: 162px;
+}
+#footer
+{
+	color: gray;
+	margin: 0 auto;
+	width: 500px;
+	font-size: 12px;
+}
+#footer p
+{
+	text-align: center;
+	bottom: 0;
+}
